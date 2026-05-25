@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+i am a frontend student. and i have been studiyng for 1 year now!
+-i am currently working on a finish project exam
+-i am currently learning javascript for a higher level
+-i am looking to collaborate on a website for e-commerce
+-i am looking for help with learning more advanced javascript code
+- ask me about how i started with frontend development, and what i do besides studying
+- how to reach me: facebook: sivert Tryggestad or instagram: Sivert Tryggestad
+- fun fact: frontend development is not my full time jobb, i am a proffesional handball player
 <!--
 **siverttryggestad/siverttryggestad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
