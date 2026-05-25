@@ -1,6 +1,6 @@
 ## Hi there 👋
 i am a frontend student. and i have been studiyng for 1 year now!
-- i am currently working on a finish project exam
+- i am currently working on my own projects
 - i am currently learning javascript for a higher level
 - i am looking to collaborate on a website for e-commerce
 - i am looking for help with learning more advanced javascript code
